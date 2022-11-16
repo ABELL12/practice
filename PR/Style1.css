@@ -1,0 +1,26 @@
+html body{ color:navy;
+text-decoration: bold;
+ background-color:white;}
+h1{ color: red;
+text-align:center;}
+h2{ color:red;
+text-align:center;
+ }
+p{ font-weight:blue;
+font-style: italic;
+background-color:black;}
+p.haha {color:black;
+background-color:green;
+
+}
+#here{color:yellow;
+background-color:maroon;
+ opacity:1.2;}
+.new{color:black;
+background-color:red;}
+#noone{color:violet;
+background-color:yellow;}
+
+section li {
+text-decoration:none;
+list-style-type:none;}
